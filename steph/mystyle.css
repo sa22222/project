@@ -21,6 +21,22 @@ h1{
   margin-top: 100px;
 }
 
+div.home{
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.home:hover {
+  border: 1px solid #777;
+}
+
+div.home img {
+  width: 100%;
+  height: auto;
+}
+
 
   
 
