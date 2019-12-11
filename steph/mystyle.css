@@ -1,0 +1,123 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,700,900|Satisfy&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,700,900|Satisfy&display=swap");
+.boxed-btn3-text:hover {
+  background: #ff008c;
+  
+  background: -moz-linear-gradient(left, #ff008c 0%, #ff6357 100%);
+  background: -webkit-linear-gradient(left, #ff008c 0%, #ff6357 100%);
+  background: linear-gradient(to right, #ff008c 0%, #ff6357 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff008c', endColorstr='#ff6357',GradientType=1 );
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  background-color: lightblue;
+}
+
+ul {
+  margin: 0px;
+  padding: 0px;
+}
+
+li {
+  list-style: none;
+}
+
+p {
+  color: #777777;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 28px;
+  margin-bottom: 26px;
+  margin-bottom: 0px;
+  font-family: "Roboto", sans-serif;
+}
+
+
+
+h3 {
+  font-size: 24px;
+}
+
+
+
+
+.header-area .main-header-area .search_icon {
+  text-align: right;
+}
+
+.header-area .main-header-area .search_icon a {
+  color: #fff;
+  width: 50px;
+  height: 50px;
+  border: 1px solid #fff;
+  display: inline-block;
+  text-align: center;
+  line-height: 50px;
+}
+
+.header-area .main-header-area.details_nav_bg {
+  background: #727272;
+  padding-bottom: 0;
+}
+
+.header-area .main-header-area .Appointment .book_btn a {
+  background: transparent;
+  padding: 12px 26px;
+  font-size: 15px;
+  font-weight: 500;
+  border: 1px solid #000;
+  color: #000;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  border-radius: 30px;
+  -webkit-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -o-transition: 0.3s;
+  transition: 0.3s;
+}
+
+.header-area .main-header-area .Appointment .book_btn a:hover {
+  color: #fff;
+  border: 1px solid transparent;
+  background: #000;
+  color: #fff;
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+  .header-area .main-header-area .Appointment .book_btn a {
+    padding: 12px 20px;
+  }
+}
+
+.header-area .main-header-area .main-menu {
+  text-align: center;
+  padding: 12px 0;
+}
+
+.header-area .main-header-area .main-menu ul li {
+  display: inline-block;
+  position: relative;
+  margin: 0 10px;
+}
+
+.header-area .main-header-area .main-menu ul li a {
+  color: #000000;
+  font-size: 15px;
+  text-transform: capitalize;
+  font-weight: 500;
+  display: inline-block;
+  padding: 0px 0px 0px 0px;
+  font-family: "Roboto", sans-serif;
+  position: relative;
+  text-transform: capitalize;
+}
+
+
+
+
+
+
+
