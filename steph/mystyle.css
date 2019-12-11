@@ -13,12 +13,13 @@ body {
   font-family: "Roboto", sans-serif;
   font-weight: normal;
   font-style: normal;
-  background-color: lightblue;
+  
 }
 
 .logo{
   width:100px;
   height: 100px;
+  background-image:url("IMG/coolss.png");
 }
 
 ul {
