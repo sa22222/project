@@ -41,7 +41,9 @@ h3 {
   font-size: 24px;
 }
 
-
+img {
+  float:left;
+}
 
 
 .header-area .main-header-area .search_icon {
