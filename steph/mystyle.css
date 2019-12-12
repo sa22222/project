@@ -22,10 +22,10 @@ h1{
 }
 
 div.ice {
-  margin: 150px;
+  margin: 5px;
   border: 1px solid #ccc;
   float: center;
-  width: 180px;
+  width: 360px;
 }
 
 div.ice:hover {
