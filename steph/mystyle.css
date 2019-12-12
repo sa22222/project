@@ -24,7 +24,7 @@ h1{
 div.ice {
   margin: 5px;
   border: 1px solid #ccc;
-  float: left;
+  float: center;
   width: 180px;
 }
 
